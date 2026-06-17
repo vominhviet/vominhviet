@@ -1,7 +1,7 @@
 ## Võ Minh Việt (Vietvm)
 
 <h1 align="center">
-  System Administrator 
+  System Administrator
 </h1>
 
 <p align="center">
@@ -26,6 +26,8 @@
 
 ### 📊 GitHub Contributions
 
+
+<!-- Snake -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vominhviet/vominhviet/output/github-contribution-grid-snake-dark.svg">
@@ -35,8 +37,7 @@
 </p>
 
 <p align="center">
-  <em>Last updated: June 17, 2026
-  <em>Last commit: <span id="last-commit">Đang tải...</span></em>
+  <em>Last updated: <strong>June 17, 2026</strong></em>
 </p>
 
 ---

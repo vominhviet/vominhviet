@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <em>Last updated: June 17, 2026</em><br>
+  <em>Last updated: June 17, 2026
   <em>Last commit: <span id="last-commit">Đang tải...</span></em>
 </p>
 

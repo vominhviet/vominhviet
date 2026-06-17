@@ -26,7 +26,6 @@
 
 ### 📊 GitHub Contributions
 
-
 <!-- Snake -->
 <p align="center">
   <picture>
@@ -37,8 +36,41 @@
 </p>
 
 <p align="center">
-  <em>Last updated: **June 17, 2026**
+  <em>Last updated: <strong>June 17, 2026</strong></em>
 </p>
+
+---
+
+### 💼 Kỹ Năng Chuyên Môn
+
+**Networking**  
+Cisco, Fortinet, Juniper, Sophos, VPN, TCP/IP, DNS, Firewall
+
+**System & Virtualization**  
+Linux, Windows Server, VMware ESXi, vCenter, KVM, Veeam
+
+**Container & Orchestration**  
+Docker, Kubernetes (Rancher, Helm), YAML
+
+**CI/CD & Automation**  
+GitLab CI, Jenkins, Ansible, Python Scripting
+
+**Monitoring & Logging**  
+Prometheus, Grafana, Zabbix, Telegraf, ELK Stack
+
+**Web & Database**  
+Nginx, Apache, Load Balancing, PostgreSQL, MySQL, MongoDB
+
+**Storage**  
+NAS, SAN, MinIO
+
+---
+
+### 📜 Chứng chỉ (Certificates)
+
+- **LPI 2** – Linux Professional Institute *(2024)*
+- **LPI 1** – Linux Professional Institute *(2023)*
+- **CCNA ** – Cisco Certified Network Associate & Professional *(Khóa học 2023)*
 
 ---
 

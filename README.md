@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <em>Last updated: **June 24, 2026**
+  <em>Last updated: **June 25, 2026**
 </p>
 
 ---
